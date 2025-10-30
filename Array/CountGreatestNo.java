@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CountGreatestNo {
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         // Count the number of element in given array greater then the given number x;
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

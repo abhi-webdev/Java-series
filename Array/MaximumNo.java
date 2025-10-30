@@ -1,5 +1,5 @@
 public class MaximumNo {
-    public static void main(String args[]) {
+    public static void main(StringRecurision args[]) {
     // maximum no from the array
         int[] arr= {2,3,9,4,1,4,8};
         int max = 0;

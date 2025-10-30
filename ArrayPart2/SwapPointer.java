@@ -33,7 +33,7 @@ public class SwapPointer {
         }
         print(arr);
     }
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         int[] arr = {1,0,1,1,0, 0, 1,1, 0};
         sortedArray(arr);
     }

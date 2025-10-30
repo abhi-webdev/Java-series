@@ -11,7 +11,7 @@ public class PrintTwoSum {
         }
         return ans;
     }
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         int[] nums = {1,2,3,4,5,6};
         int target = 0;
 

@@ -7,7 +7,7 @@ public class PassingArrayToMethod {
         // System.out.println(Arrays.toString(abhiArr));
     }
 
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         int[] arr = {13,24,35,46};
         System.out.println(arr[1]);
         change(arr);

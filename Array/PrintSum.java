@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class PrintSum {
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         // print su, of array element
         /*
         Scanner sc = new Scanner(System.in);

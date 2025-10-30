@@ -22,7 +22,7 @@ public class PrefixSum {
 
         return arr;
     }
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         int[] arr = {1,2,3,4,5,6};
         print(arr);
 

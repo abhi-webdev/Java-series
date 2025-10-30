@@ -11,7 +11,7 @@ public class SwapWithoutTemp {
         System.out.println("b: " + b);
         
     }
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         Scanner sc = new Scanner(System.in);
         // System.out.print("Enter array size: ");
         // int n = sc.nextInt();

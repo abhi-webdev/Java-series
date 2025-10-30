@@ -14,7 +14,7 @@ public class SortEvenOdd {
         arr[i] = arr[j];
         arr[j] = temp;
     }
-    public static void main(String[] args) {
+    public static void main(StringRecurision[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the no of ele: ");
         int n = sc.nextInt();
